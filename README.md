@@ -6,4 +6,4 @@
 
 The result should be that you in the browser will be able to see something like this:
 
-<img src="https://github.com/StudentsAdministration/03_create_spring_application/blob/master/movies_in_browser.png" width="400px" />
+<img src="https://github.com/StudentsAdministration/03_create_spring_application/blob/master/movies_in_browser.png" />
