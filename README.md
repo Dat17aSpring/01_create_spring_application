@@ -6,4 +6,7 @@
 
 The result should be that you in the browser will be able to see something like this:
 
-![](movies_in_browser.png)
+![](movies_in_browser.png)    
+
+
+_<div align="right">&copy; clbo@kea.dk</div>_
