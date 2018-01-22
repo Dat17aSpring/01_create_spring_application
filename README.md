@@ -8,5 +8,8 @@ The result should be that you in the browser will be able to see something like 
 
 ![](movies_in_browser.png)    
 
+## Create a new route
+
+1. Create the functionallity that makes your application able to show an actors page with the names of 3 actors
 
 _<div align="right">&copy; clbo@kea.dk</div>_
