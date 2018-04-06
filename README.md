@@ -1,4 +1,4 @@
-# #3 Exercise: Create a Spring Boot application
+# #1 Exercise: Create a Spring Boot application
 
 1. Create a new Spring Boot Application in IntelliJ
 2. in that create a MoviesController
